@@ -1,4 +1,4 @@
-# Smart-Traffic-Signal-for-Emergency-Vehical
+# Automated and Intelligent Traffic Signal System for assisting Emergency Vehicles
 
 ## Problem Statement  
 
