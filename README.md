@@ -2,7 +2,7 @@
 
 ## Problem Statement  
 
-write problem statement 
+The existing traffic signal systems operate on fixed or semi‑adaptive timetables that do not prioritize emergency vehicles, leading to unnecessary delays during critical response times due to regular signal cycles, congestion‑induced stopping, and the inability to dynamically recognize and respond to approaching emergency vehicles. This project addresses the problem by designing an automated and intelligent traffic signal system that reliably detects emergency vehicles using a multimodal approach—combining RF transmitters integrated with sirens as the primary identification mechanism, real‑time computer vision for vehicle recognition, and audio sensing for siren detection—thereby enabling the traffic signal to safely override its normal cycle, grant right‑of‑way to the emergency vehicle, and resume regular operation with minimal disruption to general traffic.
 
 ### Tech Stack  
 
@@ -15,12 +15,12 @@ write problem statement
 - **Deployment:** Firebase Hosting / Vercel *(for frontend)* and AWS / Heroku *(for backend)*  
 
 ### Expected Outcome  
-Write expected outcome. 
+The implemented system is expected to (1) accurately detect approaching emergency vehicles in diverse real‑world conditions (occlusions, poor visibility, ambient noise), (2) dynamically override normal signal phases to create timely, safe green corridors for emergency vehicles, (3) measurably reduce emergency response delays at controlled intersections, and (4) maintain low false‑activation rates and minimal disruption to regular traffic flow, demonstrating its practicality for deployment in intelligent transportation infrastructure. 
 
 ---
 
 ## Hypothesis  
-write hypothesis
+Integrating a multimodal detection system—combining authenticated RF transmitter–receiver communication with real‑time computer vision and siren‑based audio analysis—into traffic signal controllers will significantly improve the reliability and responsiveness of emergency vehicle priority at intersections, reducing false triggers and missed detections compared to using any single sensing modality alone, while maintaining safe operation for non‑emergency traffic.
 
 
 ---
@@ -43,29 +43,30 @@ Edit this as per your project
 ---
 
 ## Roles and Responsibilities  
-(Edit this as per your project)
 
-#### **Member 1 (Team Lead)**  
-- **Role:** Project Management, Frontend Development  
-- **Responsibilities:**  
-  - Oversee project progress and delivery  
-  - Develop frontend and manage UI components  
 
 ### **Team Members**  
 
-#### **Member 2**  
+#### **Saish Darge**  
 - **Role:** Frontend Developer, UI Design  
 - **Responsibilities:**  
   - Design and implement user-friendly UI  
   - Collaborate on frontend features and responsiveness  
 
-#### **Member 3**  
+#### **Aayush Desai**  
 - **Role:** Backend Developer, Data Fetching  
 - **Responsibilities:**  
   - Develop backend APIs for data retrieval  
   - Optimize backend performance and security  
 
-#### **Member 4**  
+#### **Vignesh Dukare**  
+- **Role:** Backend Developer, Data Designing  
+- **Responsibilities:**  
+  - Design and manage database architecture  
+  - Ensure data integrity and smooth database operations
+ 
+
+#### **Saujanya Shetty**  
 - **Role:** Backend Developer, Data Designing  
 - **Responsibilities:**  
   - Design and manage database architecture  
