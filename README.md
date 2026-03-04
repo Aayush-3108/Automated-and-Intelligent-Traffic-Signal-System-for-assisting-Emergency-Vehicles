@@ -88,7 +88,8 @@ Edit this as per your project
 - **Role:** Backend Developer, Data Designing  
 - **Responsibilities:**  
   - Design and manage database architecture  
-  - Ensure data integrity and smooth database operations  
+  - Ensure data integrity and smooth database operations
+  - Yolo Model Training
 
 
 ---
