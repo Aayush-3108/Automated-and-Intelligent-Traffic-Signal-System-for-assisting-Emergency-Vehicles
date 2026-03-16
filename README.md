@@ -41,8 +41,6 @@ Signal overriding: steps-
 5) The lane for the emergency vehicle turns green until it passes.
 6) Traffic signals then go back to following normal cycles. So the last lane that was green before the transition will have a resetted timed green signal.
 
----
-
 ## Technologies  
 
 Edit this as per your project
